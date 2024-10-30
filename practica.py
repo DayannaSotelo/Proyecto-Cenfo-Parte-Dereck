@@ -7,7 +7,7 @@ while x<personas:
     x=x+1
     suma=suma+nota
 promedio=suma/personas
-print("La nota final del estudiante es de: ",nota)
+print("La nota final del estudiante es de: ",promedio)
 if promedio>=70:
     print("El estudiante esta aprobado")
 elif promedio<70 and promedio>=60:
