@@ -1,2 +1,2 @@
 Dereck Antwone Vactory Edwards:
-Este repositorio tiene un código, el cual pide a un usuario (estudiante) la cantidad de examenes realizados y sus respectivas notas. De estas notas se saca el promedio y se imprime la nota final. También se imprime si el estudiante aprobó, irá a ampliación o reprobó
+Este repositorio tiene un código, el cual pide a un usuario (estudiante) la cantidad de examenes realizados y sus respectivas notas. De estas notas se saca el promedio y se imprime la nota final. También se imprime si el estudiante aprobó, irá a ampliación o reprobó. El codigo funciona como un bucle, en el cual se ingresa el número de examenes a calificar y el bucle se repite esa cantidad de veces.
